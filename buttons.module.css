@@ -1,0 +1,40 @@
+.buttons{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 200px;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: black;
+    height: fit-content;
+    border-style: solid;
+    margin: 20px;
+    padding: 5px;
+    
+
+}
+.threebuttons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.center{
+    display: flex;
+    justify-content: center;
+    border: 2px,black,solid;
+    height: fit-content;
+    width: fit-content;
+}
+button{
+    height: 45px;
+    width: 45px;
+    margin: 3px;
+    border:0.1px,gray,solid;
+}
+.threebuttons{
+    display: flex;
+    justify-content: center;
+    
+}
+

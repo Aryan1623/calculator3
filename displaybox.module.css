@@ -1,0 +1,15 @@
+.box{
+    height: 10vh;
+    border-width: 2px;
+    border-color: gray;
+    border-radius: 10px;
+    border-style: solid;
+    width: 170px;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
